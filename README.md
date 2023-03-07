@@ -1,23 +1,29 @@
 # TÍTULO DO PROJETO
 
 `CURSO`
+Analise e Desenvolvimento de Sistemas
 
 `DISCIPLINA`
+Projeto: Desenvolvimento de Aplicação Back-End
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Criação de uma aplicação com a premissa da gestão e operação do sistema de controle da jornada de trabalho, permitindo o registro, o gerenciamento e a emissão de relatórios diretamente na aplicação. Conectando os gestores da empresa aos seus colaboradores.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+*  Adriano Carlos da Silva
+*  Daniel De Souza Marcolino
+*  Gabrielle Alcantara Reis Silva
+*  Leonardo Moreira Franco de Souza
+*  Maykon Edésio Rosa
+*  Roger Bastos Mendes
+
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Will Ricardo dos Santos Machado
 
 ## Instruções de utilização
 
