@@ -1,13 +1,10 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Um projeto de controle de ponto é uma solução tecnológica que permite registrar as horas trabalhadas pelos funcionários de uma empresa. O objetivo é garantir que os funcionários cumpram suas jornadas de trabalho e recebam o pagamento adequado. O sistema pode ser implementado de várias formas e incluir funções como relatórios de horas, gerenciamento de faltas e registros de horas trabalhadas remotamente. O projeto deve estar em conformidade com as leis trabalhistas e garantir a privacidade e segurança dos dados dos funcionários, além de ser fácil de usar para todos.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Um possível problema para o projeto de controle de ponto é a resistência dos funcionários em utilizá-lo, bem como a dificuldade em garantir a precisão dos registros de horas, especialmente em ambientes de trabalho que envolvem tarefas variadas. Além disso, é importante adaptar o sistema às particularidades de cada empresa e à legislação trabalhista local.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -16,26 +13,36 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Os objetivos do projeto de controle de ponto são: garantir o cumprimento das jornadas de trabalho e a correta remuneração dos funcionários, aumentar a eficiência na gestão do tempo e reduzir erros na contabilização de horas trabalhadas, facilitar a gestão de faltas e atrasos, oferecer uma forma prática e segura de registrar as horas trabalhadas pelos funcionários, e garantir a conformidade com as leis trabalhistas e a segurança dos dados dos funcionários.
+Alguns objetivos específicos do projeto de controle de ponto podem incluir:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+        •	Implementar um sistema de registro de ponto que seja fácil e acessível para todos os funcionários da empresa, independentemente de suas habilidades tecnológicas.
+        
+        •	Garantir que o sistema de registro de ponto seja preciso e confiável, permitindo a verificação e correção de eventuais erros nos registros.
+
+        •	Disponibilizar relatórios precisos e atualizados de horas trabalhadas, para que os gestores possam tomar decisões informadas e aprimorar a eficiência da empresa.
+
+        •	Oferecer aos funcionários a opção de registrar suas horas trabalhadas remotamente, por meio de uma aplicação móvel ou outra solução tecnológica, para facilitar a gestão do trabalho à distância.
+
+        •	Assegurar a conformidade do sistema de controle de ponto com as leis trabalhistas locais, garantindo a privacidade e a segurança dos dados dos funcionários.
+
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A justificativa para o projeto de controle de ponto é garantir o cumprimento das leis trabalhistas e a correta remuneração dos funcionários, aumentar a eficiência na gestão do tempo e reduzir erros na contabilização de horas trabalhadas. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+A solução tecnológica para o controle de ponto também oferece praticidade, gestão de faltas e atrasos, registro remoto de horas trabalhadas e relatórios precisos. A implementação do sistema melhora a imagem da empresa e demonstra compromisso com a transparência e justiça no ambiente de trabalho.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público-alvo do projeto de controle de ponto são  empresas que precisam registrar as horas trabalhadas de seus funcionários. Os principais envolvidos são os gestores de recursos humanos e os responsáveis pela folha de pagamento. Os funcionários da empresa também são importantes usuários do sistema de controle de ponto e devem conseguir utilizá-lo de forma fácil e acessível.
+
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 

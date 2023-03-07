@@ -1,0 +1,46 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace ControleDePonto
+{
+    public class Funcionario
+    {
+        public int Id { get; set; }
+        public string Nome { get; set; }
+        public string Sobrenome { get; set; }
+        public string Cargo { get; set; }
+        public string Departamento { get; set; }
+    }
+
+    public class Ponto
+    {
+        public int Id { get; set; }
+        public int FuncionarioId { get; set; }
+        public DateTime Data { get; set; }
+        public TimeSpan HoraEntrada { get; set; }
+        public TimeSpan HoraSaida { get; set; }
+    }
+
+    public class ControleDePonto
+    {
+        private List<Funcionario> funcionarios = new List<Funcionario>();
+        private List<Ponto> pontos = new List<Ponto>();
+
+        public void RegistrarFuncionario(Funcionario funcionario)
+        {
+            funcionarios.Add(funcionario);
+        }
+
+        public void RegistrarPonto(Ponto ponto)
+        {
+            pontos.Add(ponto);
+        }
+
+        public List<Ponto> ConsultarPontosPorFuncionario(int funcionarioId)
+        {
+            return pontos.Where(p => p.FuncionarioId == funcionarioId).ToList();
+        }
+    }
+}
