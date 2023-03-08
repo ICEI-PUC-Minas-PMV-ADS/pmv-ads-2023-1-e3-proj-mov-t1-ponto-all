@@ -148,7 +148,20 @@ A matriz deve contemplar todos os elementos relevantes que fazem parte do sistem
 
 # Gerenciamento de Projeto
 
-De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar projetos, e que caracterizam a multidisciplinaridade envolvida, são: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas. Para desenvolver projetos um profissional deve se preocupar em gerenciar todas essas dez áreas. Elas se complementam e se relacionam, de tal forma que não se deve apenas examinar uma área de forma estanque. É preciso considerar, por exemplo, que as áreas de Escopo, Cronograma e Custos estão muito relacionadas. Assim, se eu amplio o escopo de um projeto eu posso afetar seu cronograma e seus custos.
+O intuito deste projeto é prover um sistema que vá auxiliar com o processo de ponto de uma determinada empresa. O sistema inclui funções como relatórios de horas, gerenciamento de faltas e registros de horas trabalhadas remotamente. O sistema proposto auxiliará o colaborador a ter acesso e controle de suas informações de ponto e auxiliará a empresa a manter um histórico mais preciso dos pontos.
+
+A Gerência de Projeto demanda não somente um conhecimento técnico, mas também uma experiência na área na qual se vai atuar. Com intuito de alcançar os requisitos funcionais e não funcionais estabelecidos da forma mais completa possível, a seguinte divisão de função foi estabelecida:
+
+|FUNÇÃO    | NOME  | 
+|------|-----------------------------------------|
+|DESENVOLVEDOR| GABRIELLE ALCANTARA | 
+|DESENVOLVEDOR| DANIEL MARCOLINO | 
+|TESTER| LEONARDO MOREIRA   | 
+|TESTER| ADRIANO CARLOS   | 
+|PROJECT OWNER| ROGER BASTOS   | 
+|SCRUM MASTER| MAYKON EDÉSIO   | 
+
+O monitoramento do projeto será atráves de encontros semanais com todos do time e também com os encontros juntos ao professor.
 
 ## Gerenciamento de Tempo
 
