@@ -12,7 +12,7 @@ Criação de uma aplicação com a premissa da gestão e operação do sistema d
 
 ## Integrantes
 
-*  Adriano Carlos da Silva
+*  Adriano Carlos da
 *  Daniel De Souza Marcolino
 *  Gabrielle Alcantara Reis Silva
 *  Leonardo Moreira Franco de Souza
