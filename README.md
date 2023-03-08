@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# .PontoALL
 
 `CURSO`
 Analise e Desenvolvimento de Sistemas
