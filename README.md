@@ -1,4 +1,5 @@
 # .PontoALL
+![logo-.ALL](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t7-pontoall/blob/main/docs/img/.all_logo.jpeg)
 
 `CURSO`
 Analise e Desenvolvimento de Sistemas

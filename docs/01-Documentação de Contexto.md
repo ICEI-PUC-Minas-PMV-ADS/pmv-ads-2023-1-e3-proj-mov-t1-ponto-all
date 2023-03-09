@@ -14,11 +14,11 @@ O objetivo geral deste trabalho é a criação de uma aplicação que simule um 
 
 Como objetivos específicos, podemos ressaltar:
 
-                ● Criação de uma aplicação que pode ser acessada remotamente, para registro das horas trabalhadas dos empregados;
+                ● Criação de uma aplicação que pode ser acessada remotamente;
                 ● Gerenciamento de cadastro e registro dos horários em tempo real;
-                ● Registrar além do registro de ponto, o local de onde foi acessado a aplicação, via API de geolocalização;
-                ● Geração de relatório de horas trabalhadas, horas extras e banco de horas.
-                ● Oferecer aos funcionários a opção de registrar suas horas trabalhadas remotamente, por meio de uma aplicação móvel ou outra solução tecnológica, para facilitar a gestão do trabalho à distância.
+                ● Registrar além da marcação de ponto, o local de onde foi acessado a aplicação, via API de geolocalização;
+                ● Geração de relatório com as marcações de pontos e calculos das jornadas;
+                ● Oferecer aos funcionários a opção de registrar sua jornada de trabalho remotamente, por meio de uma aplicação móvel ou outra solução tecnológica, para facilitar a gestão do trabalho à distância.
 
 
 
@@ -26,14 +26,14 @@ Como objetivos específicos, podemos ressaltar:
 
 O Instituto de Pesquisa Econômica Aplicada (Ipea) divulgou um estudo sobre o trabalho remoto no país durante a pandemia de Covid-19, onde o percentual de pessoas em home office foram responsáveis por 17,4% da massa de trabalho em novembro de 2020 ¹, podendo concluir que a contribuição delas é similar à registrada pelos trabalhadores da indústria ou do setor público.
 
-Adicionalmente, os empregadores têm dificuldade de implantar ferramentas que possibilitem o controle de jornada de seus colaboradores, já que estes não estarão mais fisicamente nas empresas, sendo de extrema necessidade uma aplicação que registre as batidas e possibilitem a auditagem, tanto por empregado quanto por empregador.
+Adicionalmente, os empregadores têm dificuldade de implantar ferramentas que possibilitem o controle de jornada de seus colaboradores, já que grande parte deles estarão operando em regine remoto, sendo de extrema necessidade uma aplicação que registre as marcações e possibilitem a visualização do historico, tanto pelo empregado quanto pelo empregador.
 
-A solução tecnológica para o controle de ponto também oferece praticidade, gestão de faltas e atrasos, registro remoto de horas trabalhadas e relatórios precisos. A implementação do sistema melhora a imagem da empresa e demonstra compromisso com a transparência e justiça no ambiente de trabalho.
+A solução tecnológica para o controle de ponto também oferece praticidade, registro remoto de horas trabalhadas e relatórios precisos. A implementação do sistema melhora a imagem da empresa e demonstra compromisso com a transparência e justiça no ambiente de trabalho.
 
 
 ## Público-Alvo
 
-A aplicação “.All” foi pensada para empresas que precisam registrar as horas trabalhadas de seus funcionários. Os principais envolvidos são os gestores de recursos humanos e os responsáveis pela folha de pagamento. Os funcionários da empresa também são importantes usuários do sistema de controle de ponto e devem conseguir utilizá-lo de forma fácil e acessível.
+A aplicação “.All” foi pensada para empresas que precisam registrar as jornadas de seus funcionários. Os principais envolvidos são os gerentes de recursos humanos. Os funcionários da empresa também são importantes usuários do sistema de controle de ponto e devem conseguir utilizá-lo de forma fácil e acessível.
 
 Desta forma, estabeleceu-se como público-alvo da aplicação, empresas que possuem colaboradores na modalidade híbrida ou "home office".
 
