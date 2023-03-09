@@ -14,11 +14,11 @@ O objetivo geral deste trabalho é a criação de uma aplicação que simule um 
 
 Como objetivos específicos, podemos ressaltar:
 
-                ● Criação de uma aplicação que pode ser acessada remotamente;
-                ● Gerenciamento de cadastro e registro dos horários em tempo real;
-                ● Registrar além da marcação de ponto, o local de onde foi acessado a aplicação, via API de geolocalização;
-                ● Geração de relatório com as marcações de pontos e calculos das jornadas;
-                ● Oferecer aos funcionários a opção de registrar sua jornada de trabalho remotamente, por meio de uma aplicação móvel ou outra solução tecnológica, para facilitar a gestão do trabalho à distância.
+        ● Criação de uma aplicação que pode ser acessada remotamente;
+        ● Gerenciamento de cadastro e registro dos horários em tempo real;
+        ● Registrar além da marcação de ponto, o local de onde foi acessado a aplicação, via API de geolocalização;
+        ● Geração de relatório com as marcações de pontos e calculos das jornadas;
+        ● Oferecer aos funcionários a opção de registrar sua jornada de trabalho remotamente, por meio de uma aplicação móvel ou outra solução tecnológica, para facilitar a gestão do trabalho à distância.
 
 
 

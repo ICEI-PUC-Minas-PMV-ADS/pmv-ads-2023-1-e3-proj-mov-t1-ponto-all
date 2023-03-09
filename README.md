@@ -5,9 +5,10 @@
 Analise e Desenvolvimento de Sistemas
 
 `DISCIPLINA`
-Projeto: Desenvolvimento de Aplicação Back-End
+Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio
 
 `SEMESTRE`
+3º Semestre
 
 Criação de uma aplicação com a premissa da gestão e operação do sistema de controle da jornada de trabalho, permitindo o registro, o gerenciamento e a emissão de relatórios diretamente na aplicação. Conectando os gestores da empresa aos seus colaboradores.
 
