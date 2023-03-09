@@ -1,53 +1,43 @@
 # Introdução
 
-Um projeto de controle de ponto é uma solução tecnológica que permite registrar as horas trabalhadas pelos funcionários de uma empresa. O objetivo é garantir que os funcionários cumpram suas jornadas de trabalho e recebam o pagamento adequado. O sistema pode ser implementado de várias formas e incluir funções como relatórios de horas, gerenciamento de faltas e registros de horas trabalhadas remotamente. O projeto deve estar em conformidade com as leis trabalhistas e garantir a privacidade e segurança dos dados dos funcionários, além de ser fácil de usar para todos.
+O trabalho remoto está crescendo no Brasil e traz benefícios tanto para os funcionários quanto para os empregadores, como maior flexibilidade e redução de custos fixos. Com a pandemia, mais pessoas começaram a trabalhar em casa e isso exigiu dos empregadores a adaptação às novas regras, incluindo o controle da jornada de trabalho dos funcionários. Para lidar com esse desafio, foi criada a aplicação ".All", que permite o registro da jornada de trabalho e geração de relatórios para a empresa. A aplicação garante a veracidade dos dados e ajuda a estabelecer uma relação mais confiável entre empregador e empregado.
 
 ## Problema
 
-Um possível problema para o projeto de controle de ponto é a resistência dos funcionários em utilizá-lo, bem como a dificuldade em garantir a precisão dos registros de horas, especialmente em ambientes de trabalho que envolvem tarefas variadas. Além disso, é importante adaptar o sistema às particularidades de cada empresa e à legislação trabalhista local.
+A ausência de registro de ponto pode acarretar em prejuízos para as empresas. A aplicação em questão visa solucionar o desafio do controle de horas trabalhadas de funcionários contratados para trabalhar em casa ou em regime híbrido, assim como é feito no modelo presencial. É crucial que o controle seja seguro e auditável para evitar penalidades e gastos desnecessários com processos trabalhistas.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+
 
 ## Objetivos
 
-Os objetivos do projeto de controle de ponto são: garantir o cumprimento das jornadas de trabalho e a correta remuneração dos funcionários, aumentar a eficiência na gestão do tempo e reduzir erros na contabilização de horas trabalhadas, facilitar a gestão de faltas e atrasos, oferecer uma forma prática e segura de registrar as horas trabalhadas pelos funcionários, e garantir a conformidade com as leis trabalhistas e a segurança dos dados dos funcionários.
-Alguns objetivos específicos do projeto de controle de ponto podem incluir:
+O objetivo geral deste trabalho é a criação de uma aplicação que simule um relógio de ponto físico na modalidade virtual, que atenda às empresas que necessitam de um controle das horas trabalhadas dos profissionais que não estão nas dependências do empregador.
 
-        •	Implementar um sistema de registro de ponto que seja fácil e acessível para todos os funcionários da empresa, independentemente de suas habilidades tecnológicas.
-        
-        •	Garantir que o sistema de registro de ponto seja preciso e confiável, permitindo a verificação e correção de eventuais erros nos registros.
+Como objetivos específicos, podemos ressaltar:
 
-        •	Disponibilizar relatórios precisos e atualizados de horas trabalhadas, para que os gestores possam tomar decisões informadas e aprimorar a eficiência da empresa.
+                ● Criação de uma aplicação que pode ser acessada remotamente, para registro das horas trabalhadas dos empregados;
+                ● Gerenciamento de cadastro e registro dos horários em tempo real;
+                ● Registrar além do registro de ponto, o local de onde foi acessado a aplicação, via API de geolocalização;
+                ● Geração de relatório de horas trabalhadas, horas extras e banco de horas.
+                ● Oferecer aos funcionários a opção de registrar suas horas trabalhadas remotamente, por meio de uma aplicação móvel ou outra solução tecnológica, para facilitar a gestão do trabalho à distância.
 
-        •	Oferecer aos funcionários a opção de registrar suas horas trabalhadas remotamente, por meio de uma aplicação móvel ou outra solução tecnológica, para facilitar a gestão do trabalho à distância.
 
-        •	Assegurar a conformidade do sistema de controle de ponto com as leis trabalhistas locais, garantindo a privacidade e a segurança dos dados dos funcionários.
-
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-A justificativa para o projeto de controle de ponto é garantir o cumprimento das leis trabalhistas e a correta remuneração dos funcionários, aumentar a eficiência na gestão do tempo e reduzir erros na contabilização de horas trabalhadas. 
+O Instituto de Pesquisa Econômica Aplicada (Ipea) divulgou um estudo sobre o trabalho remoto no país durante a pandemia de Covid-19, onde o percentual de pessoas em home office foram responsáveis por 17,4% da massa de trabalho em novembro de 2020 ¹, podendo concluir que a contribuição delas é similar à registrada pelos trabalhadores da indústria ou do setor público.
+
+Adicionalmente, os empregadores têm dificuldade de implantar ferramentas que possibilitem o controle de jornada de seus colaboradores, já que estes não estarão mais fisicamente nas empresas, sendo de extrema necessidade uma aplicação que registre as batidas e possibilitem a auditagem, tanto por empregado quanto por empregador.
 
 A solução tecnológica para o controle de ponto também oferece praticidade, gestão de faltas e atrasos, registro remoto de horas trabalhadas e relatórios precisos. A implementação do sistema melhora a imagem da empresa e demonstra compromisso com a transparência e justiça no ambiente de trabalho.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-O público-alvo do projeto de controle de ponto são  empresas que precisam registrar as horas trabalhadas de seus funcionários. Os principais envolvidos são os gestores de recursos humanos e os responsáveis pela folha de pagamento. Os funcionários da empresa também são importantes usuários do sistema de controle de ponto e devem conseguir utilizá-lo de forma fácil e acessível.
+A aplicação “.All” foi pensada para empresas que precisam registrar as horas trabalhadas de seus funcionários. Os principais envolvidos são os gestores de recursos humanos e os responsáveis pela folha de pagamento. Os funcionários da empresa também são importantes usuários do sistema de controle de ponto e devem conseguir utilizá-lo de forma fácil e acessível.
+
+Desta forma, estabeleceu-se como público-alvo da aplicação, empresas que possuem colaboradores na modalidade híbrida ou "home office".
+
+## Referências Bibliográficas
 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+¹ Home office concentrou 17,4% do total de rendimentos do trabalho em novembro. [S. l.]: Ipea - Instituto de Pesquisa Econômica Aplicada, 2 fev. 2021. Disponível em: https://portalantigo.ipea.gov.br/portal/index.php?option=com_content&view=article&id=37463&catid=3&Itemid=3. Acesso em: 7 mar. 2023.
