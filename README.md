@@ -20,6 +20,7 @@ Criação de uma aplicação com a premissa da gestão e operação do sistema d
 *  Leonardo Moreira Franco de Souza
 *  Maykon Edésio Rosa
 *  Roger Bastos Mendes
+*  Vinicio Machado Muniz de Morais
 
 
 
