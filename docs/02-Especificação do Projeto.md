@@ -58,29 +58,29 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 <br>
 
 
-## Modelagem do Processo de Negócio (NOVO - IMPLEMENTAR)
+## Modelagem do Processo de Negócio
 
-### Análise da Situação Atual (NOVO - IMPLEMENTAR)
+### Análise da Situação Atual 
 
 Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
 
-### Descrição Geral da Proposta (NOVO - IMPLEMENTAR)
+### Descrição Geral da Proposta 
 
 Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
 
-### Processo 1 – NOME DO PROCESSO (NOVO - IMPLEMENTAR)
+### Processo 1 – NOME DO PROCESSO 
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
 
 ![Processo 1](img/02-bpmn-proc1.png)
 
-### Processo 2 – NOME DO PROCESSO (NOVO - IMPLEMENTAR)
+### Processo 2 – NOME DO PROCESSO 
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
 
 ![Processo 2](img/02-bpmn-proc2.png)
 
-## Indicadores de Desempenho (NOVO - IMPLEMENTAR)
+## Indicadores de Desempenho 
 
 Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
@@ -141,7 +141,7 @@ O objetivo do diagrama de caso de uso em UML é demonstrar as diferentes maneira
 
 ![Processo 1](img/Diagrama2.png)
 
-# Matriz de Rastreabilidade (NOVO - IMPLEMENTAR)
+# Matriz de Rastreabilidade 
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
