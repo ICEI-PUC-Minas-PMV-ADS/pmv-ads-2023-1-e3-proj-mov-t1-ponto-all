@@ -155,7 +155,7 @@ A matriz deve contemplar todos os elementos relevantes que fazem parte do sistem
 > - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
 
 
-# Gerenciamento de Projeto (FEITO)
+# Gerenciamento de Projeto
 
 O intuito deste projeto é prover um sistema que vá auxiliar com o processo de ponto de uma determinada empresa. O sistema inclui funções como relatórios de horas, gerenciamento de faltas e registros de horas trabalhadas remotamente. O sistema proposto auxiliará o colaborador a ter acesso e controle de suas informações de ponto e auxiliará a empresa a manter um histórico mais preciso dos pontos.
 
@@ -172,17 +172,17 @@ A Gerência de Projeto demanda não somente um conhecimento técnico, mas també
 
 O monitoramento do projeto será atráves de encontros semanais com todos do time e também com os encontros juntos ao professor.
 
-## Gerenciamento de Tempo (FEITO)
+## Gerenciamento de Tempo
   
 O gerenciamento do projeto será através de um quadro Kanban (link). As atividades occorrerão dentro de uma sprint, quinze dias, e os requisitos a serem trabalhados na sprint serão retirados do backlog de acordo com o acordado com o stakeholder. A cada final de sprint, uma retrospectiva acontecerá para analisar o resultado desta sprint e uma planning para organizar os próximos requisitos a serem tratados na sprint que se inicia. Para manter um melhor controle do tempo, as reuniões semanais servirão também de auxílio caso exista algum impedimento para algum membro do time. Para essa implementação, o tempo máximo a ser respeitado é de seis meses.
 
-## Gerenciamento de Equipe (NOVO - IMPLEMENTAR)
+## Gerenciamento de Equipe
 
 O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
 
 ![Simple Project Timeline](img/Equipe.png)
 
-## Gestão de Orçamento (NOVO - IMPLEMENTAR)
+## Gestão de Orçamento 
 
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
