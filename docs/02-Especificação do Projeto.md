@@ -158,6 +158,7 @@ A Gerência de Projeto demanda não somente um conhecimento técnico, mas també
 |------|-----------------------------------------|
 |DESENVOLVEDOR| GABRIELLE ALCANTARA | 
 |DESENVOLVEDOR| DANIEL MARCOLINO | 
+|DESENVOLVEDOR| VINICIO MORAIS |
 |TESTER| LEONARDO MOREIRA   | 
 |TESTER| ADRIANO CARLOS   | 
 |PROJECT OWNER| ROGER BASTOS   | 
@@ -167,7 +168,7 @@ O monitoramento do projeto será atráves de encontros semanais com todos do tim
 
 ## Gerenciamento de Tempo
   
-O gerenciamento do projeto será através de um quadro Kanban (link). As atividades occorrerão dentro de uma sprint, quinze dias, e os requisitos a serem trabalhados na sprint serão retirados do backlog de acordo com o acordado com o stakeholder. A cada final de sprint, uma retrospectiva acontecerá para analisar o resultado desta sprint e uma planning para organizar os próximos requisitos a serem tratados na sprint que se inicia. Para manter um melhor controle do tempo, as reuniões semanais servirão também de auxílio caso exista algum impedimento para algum membro do time. Para essa implementação, o tempo máximo a ser respeitado é de seis meses.
+O gerenciamento do projeto será através de um quadro Kanban (https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/245/views/1). As atividades ocorrerão dentro de uma sprint, quinze dias, e os requisitos a serem trabalhados na sprint serão retirados do backlog de acordo com o acordado com o stakeholder. A cada final de sprint, uma retrospectiva acontecerá para analisar o resultado desta sprint e uma planning para organizar os próximos requisitos a serem tratados na sprint que se inicia. Para manter um melhor controle do tempo, as reuniões semanais servirão também de auxílio caso exista algum impedimento para algum membro do time. Para essa implementação, o tempo máximo a ser respeitado é de seis meses.
 
 ## Gerenciamento de Equipe
 
