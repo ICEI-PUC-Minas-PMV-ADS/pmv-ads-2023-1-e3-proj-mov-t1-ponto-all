@@ -184,4 +184,4 @@ Com base em todo o escopo produzido anteriormente, os custos do projeto serão g
 
 ## Cronogramas de tarefas a serem feitas
 
-[Link do Trello](https://trello.com/b/kHXNCfzy/to-do)
+![Tarefas](img/cronograma_tarefas_trello.png)
