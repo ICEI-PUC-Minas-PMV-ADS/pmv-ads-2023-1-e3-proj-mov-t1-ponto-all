@@ -185,3 +185,8 @@ Com base em todo o escopo produzido anteriormente, os custos do projeto serão g
 ## Cronogramas de tarefas a serem feitas
 
 ![Tarefas](img/cronograma_tarefas_trello.png)
+
+Link de acesso para Gerenciamento de Projeto do Github:
+
+https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/245/views/1
+![Tarefas](img/kanban.jpg)
