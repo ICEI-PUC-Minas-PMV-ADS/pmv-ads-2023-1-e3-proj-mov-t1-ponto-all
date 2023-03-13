@@ -62,12 +62,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ### Análise da Situação Atual 
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
 
+Com a implementação do trabalho remoto durante a pandemia, muitas empresas continuaram oferecendo essa opção de trabalho, seja totalmente em casa ou em um modelo híbrido. Isso criou a necessidade de controle de horas trabalhadas, horas extras, licenças e outros aspectos relacionados à gestão de pessoal. Como resultado, as empresas precisam agora de um registro de ponto para seus funcionários, tanto para fins trabalhistas quanto administrativos.
 ### Descrição Geral da Proposta 
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
-
+A proposta da Ponto.ALL é registrar a jornada de trabalho de colaboradores independentemente da sua localização, utilizando um Relógio de ponto virtual sempre online. O serviço consiste em registrar o início e fim da jornada de trabalho, permitindo extrações para gerenciamento das jornadas dos trabalhadores. Também é possível calcular jornadas e faltas, gerando relatórios para o setor administrativo e permitindo que os colaboradores visualizem suas próprias marcações e jornadas.
 ### Processo 1 – NOME DO PROCESSO 
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
