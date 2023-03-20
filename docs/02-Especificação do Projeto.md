@@ -71,7 +71,7 @@ A proposta da Ponto.ALL é registrar a jornada de trabalho de colaboradores inde
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
 
-![Processo 1](img/02-bpmn-proc1.png)
+![Processo 1]![Alt text](img/diagram_1.png)
 
 ### Processo 2 – NOME DO PROCESSO 
 
