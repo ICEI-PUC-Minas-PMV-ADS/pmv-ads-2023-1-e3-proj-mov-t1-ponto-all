@@ -69,7 +69,7 @@ Com a implementação do trabalho remoto durante a pandemia, muitas empresas con
 A proposta da Ponto.ALL é registrar a jornada de trabalho de colaboradores independentemente da sua localização, utilizando um Relógio de ponto virtual sempre online. O serviço consiste em registrar o início e fim da jornada de trabalho, permitindo extrações para gerenciamento das jornadas dos trabalhadores. Também é possível calcular jornadas e faltas, gerando relatórios para o setor administrativo e permitindo que os colaboradores visualizem suas próprias marcações e jornadas.
 ### Processo 1 – NOME DO PROCESSO 
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Aplicação poderá ter opção de motivos de não Marcação de ponto, adotando um campo específico para atestado ,licença ,férias Ou faltas sem justificativas . 
 
 ![Processo 1]![Alt text](img/diagram_1.png)
 
