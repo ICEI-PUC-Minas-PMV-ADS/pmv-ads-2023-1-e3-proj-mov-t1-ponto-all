@@ -45,43 +45,50 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
+### Scrum Master
+- Maykon Edésio
+
+### Product Owner
+- Roger Bastos
+
+### Equipe de desenvolvimento
+- Gabrielle Alcantara 
+- Daniel Marcolino
+- Vinicio Morais
+- Leonardo Moreira
+- Adriano Carlos
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+Para a organzação e distribuição  das tarefas optamos por utilizar o GitHub Projects disponibilizado pelo GitHub. Pode ser acessado através do link:(https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/245) Está estruturado da forma a seguir:
+
+
+|ETAPA `(Spring)`| DESCRITIVO ... ` (Detalhamento da etapa do processo)` |
+|--------------------|----------|
+| PRODUCT BACKLOG: | Recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista; |
+| TO DO: | Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando; |
+| FAZENDO:| Representa as tarefas que estão em andamento; |
+| APROVAÇÃO:| Aqui ficam as tarefas aguardando aprovação final; |
+| FEITO:| São as tarefas já realizadas,  e podem passar por atualizações durante o desenvolvimento do projeto. |
  
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+|FERRAMENTA `(Solução Tecnologica)`| SOLUÇÃO ... ` (Descrição das ferramentas utiizadas)` |
+|--------------------|-----------------------------------|
+| Editor de Código | O Editor de código utilizado para o desenvolvimento do projeto foi o Snack Expo.|
+| Comunicação | As Ferramentas de comunicação utilizadas foram o Microsoft Teams para comunicação ao vivo e via Whatsapp para troca de informações.|
+|Desenho e Prototipação| As Ferramentas de desenho de tela (_wireframing_), que optamos por usar foi a solução da Marvel.app |
+| Organogramas e Fluxogramas | Para os detalhes do projeto onde os Fluxogramas são necessários para ilustrar os detalhes, será utilizada a ferramenta LucidChart.|
 
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução `(Possivel ter mais de uma)`.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
+
  
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+
