@@ -3,9 +3,13 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Nossa metodologia contempla a definição das ferramentas utilizadas pela nossa equipe tanto para o desenvolvimento quanto para a manutenção ou organização do time na execução das tarefas do projeto.
 
-## Relação de Ambientes de Trabalho
+Nosso projeto de inteface está sendo desenvolvido através do site / app .all, no acesso ao site ou app teremos uma breve ilustração do design do projeto, podendo a todo momento ter eventuais alterações ou novos incrementos por ainda está em processo de desenvolvimento.
+
+Nossa ferramenta principal para criar os tópicos citados acima será o GitHub, que através deste repositótio será armazenado toda a manutenção dos códigos. Também será usado para gerenciamento de backlog do produto, tudo será contido através da pasta doc encontrada dentro do respositório do projeto .all.
+
+# Relação de Ambientes de Trabalho
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
 Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
