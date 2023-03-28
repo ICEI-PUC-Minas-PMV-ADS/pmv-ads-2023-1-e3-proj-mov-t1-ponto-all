@@ -161,7 +161,7 @@ A Gerência de Projeto demanda não somente um conhecimento técnico, mas també
 |DESENVOLVEDOR| VINICIO MORAIS |
 |TESTER| LEONARDO MOREIRA   | 
 |TESTER| ADRIANO CARLOS   | 
-|PROJECT OWNER| ROGER BASTOS   | 
+|PRODUCT OWNER| ROGER BASTOS   | 
 |SCRUM MASTER| MAYKON EDÉSIO   | 
 
 O monitoramento do projeto será atráves de encontros semanais com todos do time e também com os encontros juntos ao professor.
