@@ -11,8 +11,21 @@ Nossa ferramenta principal para criar os tópicos citados acima será o GitHub, 
 
 # Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+
+15
+| Ambiente | Plataforma | Link de Acesso |
+16
+--------- | ---------- |  -------------  |
+17
+| Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t1-ponto-all  |
+18
+| Documentos do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t1-ponto-all/tree/main/docs |
+19
+| Projeto de Interface e  Wireframes  | Lucid Chart e Marvelapp |   |    |
+20
+| Gerenciamento do Projeto |  |  |
+21
+​
 
 ## Controle de Versão
 
