@@ -71,7 +71,7 @@ A proposta da Ponto.ALL é registrar a jornada de trabalho de colaboradores inde
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Aplicação poderá ter opção de motivos de não Marcação de ponto, adotando um campo específico para atestado ,licença ,férias Ou faltas sem justificativas . 
 
-![Processo 1]![Alt text](img/diagram_1.png)
+![Processo 1]![Alt text](![Alt text](img/modelagem01.jpeg))
 
 ### Processo 2 – NOME DO PROCESSO 
 
