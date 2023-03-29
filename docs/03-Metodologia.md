@@ -15,8 +15,8 @@ Nossa ferramenta principal para criar os tópicos citados acima será o GitHub, 
 --------- | ---------- |  -------------  |
 | Repositório de código fonte | GitHub | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t1-ponto-all>   |
 | Documentos do projeto | GitHub | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t1-ponto-all/tree/main/docs> |
-| Projeto de Interface e  Wireframes  | Lucid Chart e Marvelapp |    | <https://marvelapp.com/signin?next=/project/6673177> |
-| Gerenciamento do Projeto | GitHub  | To Do GitHub  | <https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/245> |
+| Projeto de Interface e  Wireframes  | Lucid Chart e Marvelapp |    | <https://marvelapp.com/> |
+| Gerenciamento do Projeto | GitHub To do | <https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/245> |
 
 ## Controle de Versão
 
