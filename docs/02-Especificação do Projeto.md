@@ -75,7 +75,7 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Aplica�
 
 ### Processo 2 – NOME DO PROCESSO 
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. A aplicação poderá ter a opçãode envio e recebimento de mensagem para descrião de tarefas ou lembretes , do Admin para usúario ápos o registro inicial , para o usuario verificar suas tarefas ou metas. 
+ A aplicação poderá ter a opçãode envio e recebimento de mensagem para descrião de tarefas ou lembretes , do Admin para usúario ápos o registro inicial , para o usuario verificar suas tarefas ou metas. 
   quando for registras o final da jornada o usuario tem a possibilidade de enviar uma msg para o Admin , sendo assim o admin fica ciente de que foi realizado na jornada de trabalho .
 
 ![Processo 2]( ![Alt text](img/modelagem2.png)  )
