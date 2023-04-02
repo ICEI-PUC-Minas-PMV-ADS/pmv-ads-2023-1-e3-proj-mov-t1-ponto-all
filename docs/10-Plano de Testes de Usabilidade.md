@@ -1,11 +1,9 @@
 # Plano de Testes de Usabilidade
 
 # Introdução
-
 	.All é um aplicativo que irá permitir o registro da jornada de trabalho e a geração de relatórios, do mesmo, para a empresa. A aplicação garante a veracidade dos dados e ajuda a estabelecer uma relação mais confiável entre empregador e empregado.
 
 # Metodologia 
-
 	Após cada tarefa, o administrador pedia ao participante que classificasse a interface em uma escala Likert de 5 pontos com medidas variando de Discordo totalmente a Concordo totalmente. Medidas subjetivas do cenário pós-tarefa incluídas 
 
 - Como foi fácil realizar o login;
