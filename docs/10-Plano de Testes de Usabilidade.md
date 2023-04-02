@@ -1,26 +1,31 @@
 # Plano de Testes de Usabilidade
 
-Introdução
+# Introdução
+
 	.All é um aplicativo que irá permitir o registro da jornada de trabalho e a geração de relatórios, do mesmo, para a empresa. A aplicação garante a veracidade dos dados e ajuda a estabelecer uma relação mais confiável entre empregador e empregado.
 
-Metodologia 
+# Metodologia 
+
 	Após cada tarefa, o administrador pedia ao participante que classificasse a interface em uma escala Likert de 5 pontos com medidas variando de Discordo totalmente a Concordo totalmente. Medidas subjetivas do cenário pós-tarefa incluídas 
-• Como foi fácil realizar o login;
-• Facilidade ao concluir o ponto na jornada de trabalho;
-• Capacidade de rastrear sua localização no aplicativo;
-• Precisão de prever qual seção do aplicativo continha as informações.
+
+- Como foi fácil realizar o login;
+- Facilidade ao concluir o ponto na jornada de trabalho;
+- Capacidade de rastrear sua localização no aplicativo;
+- Precisão de prever qual seção do aplicativo continha as informações.
 
 Depois que a última tarefa foi concluída, o administrador do teste pediu ao participante para classificar o aplicativo em geral usando uma escala Likert de 5 pontos (Discordo totalmente a Concordo totalmente) para oito medidas subjetivas, incluindo:
-• Fácil de usar;
-• Capacidade de aprendizado - quão fácil seria para a maioria dos usuários aprender a usar o aplicativo;
-• Facilitação de informações - a rapidez com que o participante pode encontrar informações;
-• Atratividade visual;
-• Organização do local.
+
+- Fácil de usar;
+- Capacidade de aprendizado - quão fácil seria para a maioria dos suários aprender a usar o aplicativo;
+- Facilitação de informações - a rapidez com que o participante pode encontrar informações;
+- Atratividade visual;
+- Organização do local.
 
 Além disso, o administrador do teste fez aos participantes as seguintes perguntas gerais sobre o site:
-• O que o participante mais gostou;
-• O que o participante menos gostou;
-• Recomendações de melhoria.
+
+- O que o participante mais gostou;
+- O que o participante menos gostou;
+- Recomendações de melhoria.
 
 
 <!-- > **Links Úteis**:
