@@ -31,6 +31,30 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ![Exemplo de Wireframe](img/wireframe-Login.png)
 
+### Tela Inicial Usuario
+
+![Exemplo de Wireframe](img/Wireframe-Usuario%20Logado.png)
+
+### Tela Inicial Administrador
+
+![Exemplo de Wireframe](img/Wireframe-Administrador%20Logado.png)
+
+### Tela Registro de Ponto
+
+![Exemplo de Wireframe](img/wireframe-Registro%20Ponto.png)
+
+### Tela Aviso - Sucesso na marcação
+
+![Exemplo de Wireframe](img/wireframe-Registro%20Ponto%20-%20Sucesso.png)
+
+### Tela Aviso - Erro na marcação
+
+![Exemplo de Wireframe](img/wireframe-Registro%20Ponto%20-%20erro.png)
+
+### Tela Relátorios
+
+![Exemplo de Wireframe](img/Wireframe-Relatorios.png)
+
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
 > **Links Úteis**:
