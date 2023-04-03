@@ -24,11 +24,7 @@ const App = () => {
 
       <Header title={'Ponto All'} subtitle={'Ponto Digital'} />
       <Body>
-      
-        <View style={styles.container}>          
-          <Login />
-        </View>
-        {/*
+        
         <Button mode="contained" onPress={() => console.log('Pressed')}>
           Login
         </Button>
@@ -36,11 +32,10 @@ const App = () => {
           Cadastre-se
         </Button>
         <Text style={styles.text}> </Text>
-        */}
       </Body>
     </Container>
   );
-}
+};
 
 const styles = StyleSheet.create({
   container: {
