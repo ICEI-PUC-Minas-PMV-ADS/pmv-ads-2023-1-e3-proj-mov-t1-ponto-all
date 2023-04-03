@@ -22,6 +22,7 @@ O Fluxo de usuário (User Flow) foi desenvolvido para mapear todas as telas do s
 
 ## Wireframes
 
+Apresentamos os Wireframes do sistema com as telas previstas.
 
 ### Tela inicial:
 
