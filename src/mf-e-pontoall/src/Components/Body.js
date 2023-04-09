@@ -8,9 +8,10 @@ const Body = ({ children }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#6495ED',
+    backgroundColor: '#',
     textAlign: 'center',
-    margin: 8,
+    margin: 30,
+    
   },
 });
 

@@ -39,16 +39,9 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
+A configuração do projeto foi feita por divisões de tela por membro do grupo. Consequentemente, cada membro do grupo terá sua branche que, ao final do processo, sofreram um merge com a branche main. Quanto a gerência de tags, atualmente as tags utilizadas serão a da tela no qual se está trabalhando mais o estado no qual se encontra, exemplo `@login @dev`.
 
-> **Links Úteis**:
->
-> - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+A gerência de issues consiste em tags e cards no board. As telas passando por teste deverão ter sua própria branch e fazer uso das tags estipuladas. O board será para rastreabilidade de determinanda issue e deve conter um passo a passo claro com o resultado encontrado e o resultado esperado sempre com evidências destes.
 
 ## Gerenciamento de Projeto
 

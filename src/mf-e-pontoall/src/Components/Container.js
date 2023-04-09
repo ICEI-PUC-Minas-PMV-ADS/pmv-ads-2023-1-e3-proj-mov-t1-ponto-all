@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center', // este conteudo aqui ta refletindo na logo mas ta puxando tudo, temos que corrigir,//
     color: 'red',
-    backgroundColor: '#6495ED',
+    backgroundColor: '#FFF',
     colorFont: '#DCDCDC',
     textAlign: 'center',
     margin: 0,

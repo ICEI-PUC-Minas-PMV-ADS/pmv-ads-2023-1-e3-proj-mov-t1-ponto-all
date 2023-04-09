@@ -82,12 +82,10 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Aplica�
 
 ## Indicadores de Desempenho 
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+Os indicadores permitem a gestão quantitativa do desempenho de cada processo definido. Ajuda a corrigir desvios, mede a eficácia da implementação de melhoria de processos, facilita a implementação de novos processos e ajustes necessários.
 
-Usar o seguinte modelo: 
+![Indicadores de Desempenho](img/indicadores.jpg)
 
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
 ## Requisitos
 
@@ -99,13 +97,13 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001 | A aplicação deverá permitir que o usuário acesse o sistema com Nome de Usuário e Senha. | ALTA |
-|RF-002 | A aplicação deve permitir o registro de ponto do colaborador. | ALTA |
-|RF-003 | A aplicação deve permitir que o colaborador emita relatório com relação ao seu registro de ponto e exibição das jornadas realizadas. | ALTA |
-|RF-004 | A aplicação deve permitir aos administradores o gerenciamento dos colaboradores. | ALTA |
-|RF-005 | A aplicação deve permitir que o administrador visualize as jornadas realizadas de todos os seus colaboradores. | ALTA |
-|RF-006 | A aplicação deve executar o cálculo das jornadas trabalhadas do colaborador. | ALTA |
-|RF-007 | A aplicação deve permitir a captura de geolocalização no momento de registro de ponto do colaborador. | MÉDIA |
+|RF-001 | A aplicação deverá permitir que o usuário acesse o sistema com Nome de Usuário e Senha. | MUST |
+|RF-002 | A aplicação deve permitir o registro de ponto do colaborador. | MUST |
+|RF-003 | A aplicação deve permitir que o colaborador emita relatório com relação ao seu registro de ponto e exibição das jornadas realizadas. | MUST |
+|RF-004 | A aplicação deve permitir aos administradores o gerenciamento dos colaboradores. | MUST |
+|RF-005 | A aplicação deve permitir que o administrador visualize as jornadas realizadas de todos os seus colaboradores. | MUST |
+|RF-006 | A aplicação deve executar o cálculo das jornadas trabalhadas do colaborador. | MUST |
+|RF-007 | A aplicação deve permitir a captura de geolocalização no momento de registro de ponto do colaborador. | COULD |
 
 
 
@@ -113,11 +111,11 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo. | ALTA |
-|RNF-002| A aplicação deve informar ao usuario após todas as suas ações sucesso ou fracasso. |ALTA|
-|RNF-003| Os dados do usuário devem ser armazenados em um banco de dados (Tecnologia a definir). |  ALTA |  
-|RNF-004| Os relatórios devem ser exibidos na tela do sistema diretamente.|  MÉDIA | 
-|RNF-005| O sistema deve buscar localização do usuário através de API de terceiros. |  MÉDIA |
+|RNF-001| O sistema deve ser responsivo. | MUST |
+|RNF-002| A aplicação deve informar ao usuario após todas as suas ações sucesso ou fracasso. |MUST|
+|RNF-003| Os dados do usuário devem ser armazenados em um banco de dados (Tecnologia a definir). |  MUST |  
+|RNF-004| Os relatórios devem ser exibidos na tela do sistema diretamente.|  SHOULD | 
+|RNF-005| O sistema deve buscar localização do usuário através de API de terceiros. |  COULD |
 
 
 
