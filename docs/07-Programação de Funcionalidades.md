@@ -6,10 +6,9 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+### Roger Mendes - Geolocalização
+
+Fiquei responsável pela Geolocalização, onde o usuário ao registrar o ponto, deverá ser possível capturar a geolocalização do mesmo via API, na etapa 2 como exemplificado nas imagens abaixo sendo que após caputa, deverá retornar o local na tela. Estou trabalhando para ao invés de mostrar a localização por ponto geográfico, mostrar o nome do endereço, cidade e país.
+
+![Tela Geolocalização](![Alt text](img/tela_geolocalizacao.jpg))
+![Tela Código Geolocalização](![Alt text](img/codigo_geolocalizacao.jpg))
