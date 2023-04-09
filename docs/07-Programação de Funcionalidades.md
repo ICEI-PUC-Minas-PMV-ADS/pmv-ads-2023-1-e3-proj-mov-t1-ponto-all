@@ -6,9 +6,10 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
-### Roger Mendes - Geolocalização
+### Roger Mendes - Geolocalização ###
 
-Fiquei responsável pela Geolocalização, onde o usuário ao registrar o ponto, deverá ser possível capturar a geolocalização do mesmo via API, na etapa 2 como exemplificado nas imagens abaixo sendo que após caputa, deverá retornar o local na tela. Estou trabalhando para ao invés de mostrar a localização por ponto geográfico, mostrar o nome do endereço, cidade e país.
+Fiquei responsável pela Geolocalização, onde o usuário ao registrar o ponto, deverá ser possível capturar a geolocalização do mesmo via API, como exemplificado nas imagens abaixo.<p>
+Após captura, deverá retornar o local na tela. Estou trabalhando para que ao invés de mostrar a localização por ponto geográfico (LAT, LONG), mostrar o nome do endereço, cidade e país.<p>
 
 [Tela Geolocalização]<p>
 ![Alt text](img/tela_geolocalizacao.jpg)
