@@ -10,5 +10,8 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 Fiquei responsável pela Geolocalização, onde o usuário ao registrar o ponto, deverá ser possível capturar a geolocalização do mesmo via API, na etapa 2 como exemplificado nas imagens abaixo sendo que após caputa, deverá retornar o local na tela. Estou trabalhando para ao invés de mostrar a localização por ponto geográfico, mostrar o nome do endereço, cidade e país.
 
-![Tela Geolocalização](![Alt text](img/tela_geolocalizacao.jpg))
-![Tela Código Geolocalização](![Alt text](img/codigo_geolocalizacao.jpg))
+[Tela Geolocalização]<p>
+![Alt text](img/tela_geolocalizacao.jpg)
+
+[Código Geolocalização]<p>
+![Alt text](img/codigo_geolocalizacao.jpg)
