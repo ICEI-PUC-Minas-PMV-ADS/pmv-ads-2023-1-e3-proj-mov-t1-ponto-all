@@ -16,3 +16,8 @@ Após captura, deverá retornar o local na tela. Estou trabalhando para que ao i
 
 [Código Geolocalização]<p>
 ![Alt text](img/codigo_geolocalizacao.jpg)
+
+
+### Maykon Edésio - Redefinir senha e excluir ###
+
+[Alt text](img/DNA/redefinir.png))
