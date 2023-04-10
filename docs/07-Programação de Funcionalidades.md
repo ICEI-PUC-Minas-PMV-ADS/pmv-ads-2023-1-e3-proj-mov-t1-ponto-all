@@ -15,9 +15,23 @@ Após captura, deverá retornar o local na tela. Estou trabalhando para que ao i
 ![Alt text](img/tela_geolocalizacao.jpg)
 
 [Código Geolocalização]<p>
+<<<<<<< HEAD
 ![Alt text](img/codigo_geolocalizacao.jpg)
 
 
 ### Maykon Edésio - Redefinir senha e excluir ###
 
 [Alt text](img/DNA/redefinir.png))
+=======
+![Alt text](img/codigo_geolocalizacao.jpg)<p>
+<br>
+
+### Adriano Carlos - Tela de Cadastro ###
+<br>
+
+[Tela Cadastro de Usuário]<p>
+![Alt text](img/tela_cadastro01.jpeg)
+
+[Código Cadastro de Usuário]<p>
+![Alt text](img/tela_cadastro.jpeg)
+>>>>>>> e84af90e921f4321d577a50aec680776bb2bf1fd
