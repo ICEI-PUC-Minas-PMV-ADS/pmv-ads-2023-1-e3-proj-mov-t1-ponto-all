@@ -15,9 +15,11 @@ Após captura, deverá retornar o local na tela. Estou trabalhando para que ao i
 ![Alt text](img/tela_geolocalizacao.jpg)
 
 [Código Geolocalização]<p>
-![Alt text](img/codigo_geolocalizacao.jpg)<br>
+![Alt text](img/codigo_geolocalizacao.jpg)<p>
+<br>
 
 ### Adriano Carlos - Tela de Cadastro ###
+<br>
 
-info <p>
-
+[Tela Cadastro de Usuário]<p>
+![Alt text](img/tela_cadastro.jpeg)
