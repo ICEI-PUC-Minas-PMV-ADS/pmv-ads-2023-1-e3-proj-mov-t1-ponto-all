@@ -22,4 +22,7 @@ Após captura, deverá retornar o local na tela. Estou trabalhando para que ao i
 <br>
 
 [Tela Cadastro de Usuário]<p>
+![Alt text](img/tela_cadastro01.jpeg)
+
+[Código Cadastro de Usuário]<p>
 ![Alt text](img/tela_cadastro.jpeg)
