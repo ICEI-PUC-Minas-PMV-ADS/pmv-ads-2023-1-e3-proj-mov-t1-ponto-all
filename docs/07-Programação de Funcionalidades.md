@@ -6,6 +6,34 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
+
+## Tela Inicial
+
+![Tela Home - Ponto ALL](img/DNA/V1.0.0/Tela%20Home.png)
+
+## Tela Logado
+
+![Tela Logado - Ponto ALL](img/DNA/V1.0.0/Tela%20Perfil%20-%20V1.0.0.png)
+
+## Tela Meus Dados
+
+![Tela Meus Dados - Ponto ALL](img/DNA/V1.0.0/Tela%20Meus%20Dados%20-%20V1.0.0.png)
+
+## Tela Relatorio
+
+![TTela Relatorio - Ponto ALL](img/DNA/V1.0.0/Tela%20Relatorio%20-%20V1.0.0.png)
+
+## Tela Registro de Ponto
+
+![Tela Registro de Ponto - Ponto ALL](img/DNA/V1.0.0/Tela%20Registro%20Ponto%20-%20V1.0.0.png)
+
+
+## Tela Colaboradores
+
+![ela Colaboradores - Ponto ALL](img/DNA/V1.0.0/Tela%20Colaboradores%20-%20V1.0.0.png)
+
+
+
 > **Links Úteis**:
 >
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
