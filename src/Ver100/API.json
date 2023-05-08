@@ -1,0 +1,37 @@
+{
+  "users": [],
+  "cads": [
+    {
+      "id": 1,
+      "tipo": 0,
+      "data": "01/01/2022",
+      "preco": 6.77,
+      "valor": 100.00,
+      "odometro": 33003,
+      "nome": "joao silva",
+      "cpf": 10000,
+      "rg": "MG10101010",
+      "nasc": "27/04/1988",
+      "cargo": "supervisor",
+      "jornada": 44,
+      "admissao": "15/05/2008",
+      "senha": "9999"
+    },
+    {
+      "id": 2,
+      "tipo": 1,
+      "data": "10/01/2022",
+      "preco": 5.65,
+      "valor": 100.00,
+      "odometro": 32004,
+      "nome": "jose silva",
+      "cpf": 10000,
+      "rg": "MG10101010",
+      "nasc": "01/04/1978",
+      "cargo": "Estagiario",
+      "jornada": 40,
+      "admissao": "15/05/2003",
+      "senha": "9999"
+    }
+  ]
+}
