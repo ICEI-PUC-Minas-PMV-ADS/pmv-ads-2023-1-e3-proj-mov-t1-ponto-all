@@ -23,6 +23,11 @@ Esta tela exibe as informações basicas iniciais.
 
 -Selecionar o botão ENTRAR para efetuar o login.
 
+
+<span style="color:red">Resultado: </span> 
+
+###  Tela abre com sucesso, entretanto, a logica do botão entrar ainda não está funcionando corretamente. (Problemas com a parte de programação da API e no EXPO Dev) (Funcionalidade do Daniel)
+\
 \
 ## CT-02 – Efetuar registro de ponto eletrônico
 
@@ -42,6 +47,13 @@ Esta tela exibe o botão para registro de ponto.
 - Aguardar a confirmação do registro por mensagem na tela.
 \
 \
+<span style="color:red">Resultado: </span> 
+
+###  Tela abre com sucesso, entretanto, a logica do botão Registrar ainda não está funcionando corretamente. (Funcionalidade do Vinicio)
+\
+\
+\
+
 
 ## CT-03 – Emissão de Relatório de Jornada
 
@@ -68,6 +80,12 @@ Acessar o navegador
 \
 \
 \
+<span style="color:red">Resultado: </span> 
+
+###  Tela abre com sucesso, entretanto, a logica do botão Emitir Relatorio ainda não está funcionando corretamente. (Funcionalidade do Leonardo)
+\
+\
+\
 
 ## CT-04 – Gerenciamento de colaboradores
 
@@ -91,7 +109,7 @@ Esta tela exibe os colaboradores cadastrados.
 
 ## CT-05 – Visualização das jornadas de trabalho pelo ADM
 
-Esta tela exibe os colaboradores cadastrados.
+Esta tela exibe relatorios com informações adminstrativas.
 \
 \
 ![Exemplo de Wireframe](img/DNA/V1.0.0/Tela%20Colaboradores%20-%20V1.0.0-2.png)
@@ -110,26 +128,8 @@ Esta tela exibe os colaboradores cadastrados.
 \
 \
 \
-## CT-06 – Cálculo das jornadas de trabalho
+<span style="color:red">Resultado: </span> 
 
-Esta tela exibe os colaboradores cadastrados.
-\
-\
-![Exemplo de Wireframe](img/DNA/V1.0.0/Tela%20Colaboradores%20-%20V1.0.0-2.png)
-\
-\
+###  Tela abre com sucesso, entretanto, botões Adicionar Colaboradores e editar Colaboradores ainda não está funcionando corretamente. (Funcionalidade do Adriano)
 
-Acessar o navegador
-
-- Informar a URL da aplicação .ALL
-
-- Realizar login no site
-
-- Na página inicial já logada no perfil do usuário, acessar menu na opção Relatórios.
-
--Navegar na página Relatórios
-
--Selecionar relatório desejado no menu de seleção.
-
--Emitir relatório clicando no botão Gerar Relatório.
 
