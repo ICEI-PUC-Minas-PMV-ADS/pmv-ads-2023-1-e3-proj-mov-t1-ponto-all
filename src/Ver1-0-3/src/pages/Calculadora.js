@@ -63,7 +63,7 @@ const Calculadora = () => {
                 <Logo source={fingerprint2} />
               </ImageWrapper>
             </TouchableOpacity>
-            <HoraAtual>O seu Sistema de Ponto Digital!!!</HoraAtual>
+            <HoraAtual>O seu Sistema de Ponto Digital !!!  MAYKON</HoraAtual>
                        
             <Text> </Text>
             <HoraAtual>{horaAtual}</HoraAtual>
