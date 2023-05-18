@@ -16,7 +16,6 @@ Criação de uma aplicação com a premissa da gestão e operação do sistema d
 
 *  Adriano Carlos da Silva
 *  Daniel De Souza Marcolino
-*  Gabrielle Alcantara Reis Silva
 *  Leonardo Moreira Franco de Souza
 *  Maykon Edésio Rosa
 *  Roger Bastos Mendes

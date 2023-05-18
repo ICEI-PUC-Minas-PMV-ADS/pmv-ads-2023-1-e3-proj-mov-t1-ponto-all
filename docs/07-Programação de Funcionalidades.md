@@ -6,6 +6,20 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
+### Requisitos Funcionais
+
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+
+|ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
+|------|-----------------------------------------|----|
+|RF-001 | A aplicação deverá permitir que o usuário acesse o sistema com Nome de Usuário e Senha. | Home.js / Login.js / Auth.js / Route.js / webapi.services.js / Auth.services.js |
+|RF-002 | A aplicação deve permitir o registro de ponto do colaborador. | Registro2.js |
+|RF-003 | A aplicação deve permitir que o colaborador emita relatório com relação ao seu registro de ponto e exibição das jornadas realizadas. | Relatorio.js |
+|RF-004 | A aplicação deve permitir aos administradores o gerenciamento dos colaboradores. | Colabs4.js / Cadastramento.js|
+|RF-005 | A aplicação deve permitir que o administrador visualize as jornadas realizadas de todos os seus colaboradores. | Relatorio.js|
+|RF-006 | A aplicação deve executar o cálculo das jornadas trabalhadas do colaborador. | Registro2.js / Relatorio.js |
+|RF-007 | A aplicação deve permitir a captura de geolocalização no momento de registro de ponto do colaborador. | Registro2.js / Login.js |
+
 
 ## Tela Inicial
 
