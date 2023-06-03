@@ -89,6 +89,18 @@
       "password": "$2a$10$37IbQ1UjRpZnd9QaoVdZeusnFmN0Xy4HkH6VrjDtbLIbG3u.2Cw82",
       "name": "Daniel Souza",
       "id": 1012
+    },
+    {
+      "email": "Mark@pucminas.br",
+      "password": "$2a$10$//qDvHd9FMyVC7nQdVI0PuyLh5TiykeRw3XfDRytC0VPWJgXXdTfC",
+      "name": "Mark",
+      "id": 1013
+    },
+    {
+      "email": "souza@pucminas.br",
+      "password": "$2a$10$82E437GDCnHZVa8BS5t9gObLpzp10jjJZKfA24AuLq8x7PMOXMIUm",
+      "name": "Souza",
+      "id": 1014
     }
   ],
   "gastos": [
