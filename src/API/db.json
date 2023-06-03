@@ -1,0 +1,209 @@
+{
+  "users": [
+    {
+      "id": 1000,
+      "tipo": 0,
+      "nome": "Marcolino",
+      "nasc": "27/07/1985",
+      "cargo": "Developer",
+      "jornada": 40,
+      "senha": 12345
+    },
+    {
+      "id": 1001,
+      "tipo": 0,
+      "nome": "roger",
+      "nasc": "15/07/1988",
+      "cargo": "Analista",
+      "jornada": 20,
+      "senha": 12345
+    },
+    {
+      "id": 1002,
+      "tipo": 0,
+      "nome": "maykon",
+      "nasc": "17/08/1989",
+      "cargo": "Analista",
+      "jornada": 40,
+      "senha": 12345
+    },
+    {
+      "id": 1003,
+      "tipo": 1,
+      "nome": "leonardo",
+      "nasc": "31/11/1992",
+      "cargo": "Especialista",
+      "jornada": 30,
+      "senha": 12345
+    },
+    {
+      "id": 1004,
+      "tipo": 0,
+      "nome": "vinicio",
+      "nasc": "22/01/1991",
+      "cargo": "Design Dados",
+      "jornada": 35,
+      "senha": 12345
+    },
+    {
+      "id": 1005,
+      "tipo": 0,
+      "nome": "Adriano",
+      "nasc": "09/05/1981",
+      "cargo": "Analista de Negocios",
+      "jornada": 40,
+      "senha": 12345
+    },
+    {
+      "email": "Daniel@pucminas.br",
+      "password": "$2a$10$Y.wvVVx9hj3AKo6VkoNqeuAMXMAkEsrvWvtS0tEwg.Ls00yYxyfP.",
+      "name": "Daniel Souza",
+      "id": 1007
+    },
+    {
+      "email": "Danielmarcolino@pucminas.br",
+      "password": "$2a$10$f42zHHcbV.bfT1YvOGHxc.6er5GuJKibeHOYKb9y2KBEDxQjNU6fi",
+      "name": "Daniel Souza",
+      "id": 1008
+    },
+    {
+      "email": "Daniel11@pucminas.br",
+      "password": "$2a$10$L7SJy9n6cgjxiJjYxHbMyuMFLIMNUYtW4tWLdL7CP0QntmJRPWQJa",
+      "name": "Daniel Souza",
+      "id": 1009
+    },
+    {
+      "email": "teste9@pucminas.br",
+      "password": "$2a$10$glbwxEkYwgIQRuZhZxwhJ.u3nRrTWV3GzDr6vHjWXE7ddf2s9qZgS",
+      "name": "teste9",
+      "id": 1010
+    },
+    {
+      "email": "001@email.com",
+      "password": "$2a$10$tumkQa2TivgWsFM/k2lYuukMMY/ANUy9p0mX1UxKTafpkvH6YzpdS",
+      "name": "001",
+      "id": 1011
+    },
+    {
+      "email": "testand@pucminas.br",
+      "password": "$2a$10$37IbQ1UjRpZnd9QaoVdZeusnFmN0Xy4HkH6VrjDtbLIbG3u.2Cw82",
+      "name": "Daniel Souza",
+      "id": 1012
+    }
+  ],
+  "gastos": [
+    {
+      "id": 1,
+      "tipo": 0,
+      "data": "01/01/2022",
+      "preco": 6.77,
+      "valor": 100,
+      "odometro": 33002
+    },
+    {
+      "id": 2,
+      "tipo": 1,
+      "data": "10/01/2022",
+      "preco": 5.65,
+      "valor": 100,
+      "odometro": 32001
+    },
+    {
+      "id": 3,
+      "tipo": 1,
+      "data": "12/01/2022",
+      "preco": 5.68,
+      "valor": 144,
+      "odometro": 32401
+    }
+  ],
+  "ponto": [
+    {
+      "id": 5000,
+      "user": 1000,
+      "tipo": 1,
+      "data": "01/06/2023",
+      "hora": "08:00"
+    },
+    {
+      "id": 5001,
+      "user": 1000,
+      "tipo": 2,
+      "data": "01/06/2023",
+      "hora": "12:00"
+    },
+    {
+      "id": 5002,
+      "user": 1000,
+      "tipo": 3,
+      "data": "01/06/2023",
+      "hora": "13:00"
+    },
+    {
+      "id": 5003,
+      "user": 1000,
+      "tipo": 4,
+      "data": "01/06/2023",
+      "hora": "17:00"
+    }
+  ],
+  "test": [
+    {
+      "id": 6000,
+      "name": "Daniel",
+      "email": "danielsouzamg@hotmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 6001
+    },
+    {
+      "id": 6002
+    },
+    {
+      "id": 6003,
+      "nome": "Teste0",
+      "email": "03/06/2023",
+      "password": 12345
+    },
+    {
+      "id": 6005,
+      "nome": "Teste2",
+      "email": "03/06/2023",
+      "password": 12345
+    },
+    {
+      "id": 6006,
+      "nome": "Teste",
+      "email": "03/06/2023",
+      "password": 12345
+    },
+    {
+      "id": 6007
+    },
+    {
+      "id": 6008
+    },
+    {
+      "id": 6009
+    },
+    {
+      "id": 6010
+    },
+    {
+      "id": 6011
+    },
+    {
+      "id": 6012
+    },
+    {
+      "id": 6013
+    },
+    {
+      "id": 6004,
+      "nome": "Teste8",
+      "email": "03/06/2023",
+      "password": 12345
+    }
+  ]
+}

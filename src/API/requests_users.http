@@ -1,0 +1,36 @@
+### GASTOS
+GET http://localhost:3000/users
+
+
+### CREATE
+POST http://localhost:3000/users
+content-type: application/json
+
+{
+  "id": 1006,
+  "tipo": 0,
+  "nome": "Teste",
+  "nasc": "19/05/1989",
+  "cargo": "Analista de Teste",
+  "jornada": 20,
+  "senha": 12345
+}
+
+### UPDATE
+PUT http://localhost:3000/gastos/3
+content-type: application/json
+
+{
+  "tipo": 1,
+  "data": "10/01/2022",
+  "preco": 7.5,
+  "valor": 130.00,
+  "odometro": 34000
+}
+
+
+### GET GASTO
+GET http://localhost:3000/gastos/3
+
+### DELETE GASTO
+DELETE http://localhost:3000/gastos/3
