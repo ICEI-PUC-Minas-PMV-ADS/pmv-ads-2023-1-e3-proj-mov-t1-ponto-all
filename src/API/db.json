@@ -101,6 +101,12 @@
       "password": "$2a$10$82E437GDCnHZVa8BS5t9gObLpzp10jjJZKfA24AuLq8x7PMOXMIUm",
       "name": "Souza",
       "id": 1014
+    },
+    {
+      "email": "Daniel88@pucminas.br",
+      "password": "$2a$10$d8mNz0bqnrj2IIABY/s02.GMcPoJMiu56195JSseJeISt44e6bz4u",
+      "name": "Daniel Souza",
+      "id": 1015
     }
   ],
   "gastos": [
