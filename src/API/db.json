@@ -1,66 +1,6 @@
 {
   "users": [
     {
-      "id": 1000,
-      "tipo": 0,
-      "nome": "Marcolino",
-      "nasc": "27/07/1985",
-      "cargo": "Developer",
-      "jornada": 40,
-      "senha": 12345
-    },
-    {
-      "id": 1001,
-      "tipo": 0,
-      "nome": "roger",
-      "nasc": "15/07/1988",
-      "cargo": "Analista",
-      "jornada": 20,
-      "senha": 12345
-    },
-    {
-      "id": 1002,
-      "tipo": 0,
-      "nome": "maykon",
-      "nasc": "17/08/1989",
-      "cargo": "Analista",
-      "jornada": 40,
-      "senha": 12345
-    },
-    {
-      "id": 1003,
-      "tipo": 1,
-      "nome": "leonardo",
-      "nasc": "31/11/1992",
-      "cargo": "Especialista",
-      "jornada": 30,
-      "senha": 12345
-    },
-    {
-      "id": 1004,
-      "tipo": 0,
-      "nome": "vinicio",
-      "nasc": "22/01/1991",
-      "cargo": "Design Dados",
-      "jornada": 35,
-      "senha": 12345
-    },
-    {
-      "id": 1005,
-      "tipo": 0,
-      "nome": "Adriano",
-      "nasc": "09/05/1981",
-      "cargo": "Analista de Negocios",
-      "jornada": 40,
-      "senha": 12345
-    },
-    {
-      "email": "Daniel@pucminas.br",
-      "password": "$2a$10$Y.wvVVx9hj3AKo6VkoNqeuAMXMAkEsrvWvtS0tEwg.Ls00yYxyfP.",
-      "name": "Daniel Souza",
-      "id": 1007
-    },
-    {
       "email": "Danielmarcolino@pucminas.br",
       "password": "$2a$10$f42zHHcbV.bfT1YvOGHxc.6er5GuJKibeHOYKb9y2KBEDxQjNU6fi",
       "name": "Daniel Souza",
@@ -103,10 +43,34 @@
       "id": 1014
     },
     {
-      "email": "Daniel88@pucminas.br",
-      "password": "$2a$10$d8mNz0bqnrj2IIABY/s02.GMcPoJMiu56195JSseJeISt44e6bz4u",
+      "email": "Daniel@pucminas.br",
+      "password": "$2a$10$WnFuEAmc1ZjzHgLatpiK8uV.bsbyb2HwiSpIOEzLdmgrSBZXiTb0u",
       "name": "Daniel Souza",
-      "id": 1015
+      "matricula": "6000",
+      "nasc": "27/07/1985",
+      "cargo": "Analista",
+      "jornada": "40",
+      "id": 1022
+    },
+    {
+      "email": "maykon@pucminas.br",
+      "password": "$2a$10$4NlvVh3lTrRJgxMxX9k7cep534tMnVqUX3ynGsbbyrdKg61zLE/9S",
+      "name": "Maykon",
+      "matricula": "4001",
+      "nasc": "27/07/1988",
+      "cargo": "Product Owner",
+      "jornada": "40",
+      "id": 1023
+    },
+    {
+      "email": "roger@pucminas.br",
+      "password": "$2a$10$UitvE4GgNJiEFIdfq8Qhlue7kqrrA5z5wCwdvHtrd0EyEppuglPyu",
+      "name": "Roger",
+      "matricula": "2000",
+      "nasc": "14/08/1992",
+      "cargo": "Developer",
+      "jornada": "44",
+      "id": 1025
     }
   ],
   "gastos": [
@@ -215,13 +179,75 @@
       "id": 6012
     },
     {
-      "id": 6013
-    },
-    {
       "id": 6004,
       "nome": "Teste8",
       "email": "03/06/2023",
       "password": 12345
+    },
+    {
+      "id": 6014,
+      "nome": "Hopis",
+      "email": "Hopis@email.com"
+    },
+    {
+      "id": 6015,
+      "nome": "Daniel"
+    },
+    {
+      "id": 6016
+    },
+    {
+      "id": 6017
+    },
+    {
+      "id": 6018
+    },
+    {
+      "id": 6019
+    },
+    {
+      "id": 6020
+    },
+    {
+      "id": 6021
+    },
+    {
+      "name": 6016,
+      "email": "Daniel",
+      "senha": 12345,
+      "id": 6022
+    },
+    {
+      "id": 6023
+    },
+    {
+      "id": 6024
+    },
+    {
+      "id": 6025
+    },
+    {
+      "id": 6027
+    },
+    {
+      "email": "Daniel2",
+      "senha": 12345,
+      "id": 6028
+    },
+    {
+      "id": 6029
+    },
+    {
+      "id": 6030
+    },
+    {
+      "id": 6031
+    },
+    {
+      "id": 6033
+    },
+    {
+      "id": 6034
     }
   ]
 }
