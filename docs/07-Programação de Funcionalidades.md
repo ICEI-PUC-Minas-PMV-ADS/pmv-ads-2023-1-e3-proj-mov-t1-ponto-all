@@ -38,6 +38,12 @@ Atualização tela em 11/06.
 - Tela já faz CRUD com o envio de informações de login para a API.
 
 
+Para visualizar o POC (Proof of Concept) da primeira versão:
+
+<video src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t1-ponto-all/blob/83c6f37ec753ab25b98ecc44f468f124dade461b/docs/img/Andamento%20121D/Ver%201-2-1D%20-%20Snack%20-%2011%20June%202023.mp4"></video>
+
+
+
 ## Tela Logado
 
 ![Tela Logado - Ponto ALL](img/DNA/V1.0.0/Tela%20Perfil%20-%20V1.0.0.png)
