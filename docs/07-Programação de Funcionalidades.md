@@ -43,7 +43,7 @@ Video:
 
 <video src="docs/img/Andamento 121D/Ver 1-2-1D - Snack - 11 June 2023.mp4"></video>
 
-<video src=(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t1-ponto-all/blob/83c6f37ec753ab25b98ecc44f468f124dade461b/docs/img/Andamento%20121D/Ver%201-2-1D%20-%20Snack%20-%2011%20June%202023.mp4)></video>
+<video src="https://www.loom.com/share/283d9e7e4c4f4b089d85510a7e3b9f31"></video>
 
 
 
