@@ -29,6 +29,16 @@
       "cargo": "Developer",
       "jornada": "44",
       "id": 1025
+    },
+    {
+      "email": "Marcolino@email.com",
+      "password": "$2a$10$t1ei9NrtOxGbw69lA47JIeAPZpzOTY8Vmw.QbmuNe65eqB.NZfUxW",
+      "name": "Marcolino",
+      "matricula": "6003",
+      "nasc": "27/07/1989",
+      "cargo": "Estagiario",
+      "jornada": "20",
+      "id": 1026
     }
   ],
   "gastos": [
