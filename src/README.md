@@ -2,7 +2,7 @@
 
 ## Instalação da aplicação móvel
 
-Para ter acesso a aplicação móvel, <a href="https://snack.expo.dev/@markline/navegabilidade2b">clique aqui</a>.
+Para ter acesso a aplicação móvel, <a href="https://snack.expo.dev/@markline/ver-1-2-1d">clique aqui</a>.
 
 Para fazer o login no sistema, utilize os dados abaixo:
 
@@ -40,4 +40,17 @@ Senha: (Em implantação)
 - Tela Home foi implementado logo do projeto e agora exibe a hora em tempo real (hora do sistema), incluido tambem botão para acessar a pagina de login.
 - Atualização na pagina de Login (Autenticação em implantação)
 - Melhorias na Rota
+
+### [1.1.8] 03/06/2023
+#### Adicionado
+- Retirada toda a estrutura e logica de SQLite.
+
+
+### [1.2.1] 11/06/2023
+#### Adicionado
+- Correção integração API (LocalHost:3000)
+- Tela de Cadastro recebeu novos campos (Matricula, Data de Nascimento, Cargo e Jornada trabalho)
+- Design tela de login foi remodelado
+- Design tela de Marcação Ponto foi remodelada
+
 
