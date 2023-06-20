@@ -39,6 +39,16 @@
       "cargo": "Estagiario",
       "jornada": "20",
       "id": 1026
+    },
+    {
+      "email": "maykon22@pucminas.br",
+      "password": "$2a$10$eorXWJROqnn8jROlFlsaRuFYk0gkGduV5OUkBZ1tFqDSzdTYz0QJK",
+      "name": "Maykon22",
+      "matricula": "6001",
+      "nasc": "27/07/1985",
+      "cargo": "Analista",
+      "jornada": "40",
+      "id": 1027
     }
   ],
   "gastos": [
