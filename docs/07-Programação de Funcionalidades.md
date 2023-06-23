@@ -138,6 +138,17 @@ Atualização tela em 11/06.
 
 Implentação suspensa.
 
+## Implantação Coordenadas MapView (Roger - Geolocalização)
+
+![Tela Geolocalização - Ponto ALL](img/map/geoloc.png)
+
+![Tela Solicitação de permissão - Ponto ALL](img/map/geoloc2.png)
+
+Atualização tela em 23/06.
+
+Implentação não finalizada.
+
+
 ## Implantação serviço de API e Auth via Json Server Auth
 
 Atualização tela em 11/06.
