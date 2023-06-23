@@ -146,7 +146,7 @@ Implentação suspensa.
 
 Atualização tela em 23/06.
 
-Implentação não finalizada.
+Implementação não finalizada.
 
 
 ## Implantação serviço de API e Auth via Json Server Auth
