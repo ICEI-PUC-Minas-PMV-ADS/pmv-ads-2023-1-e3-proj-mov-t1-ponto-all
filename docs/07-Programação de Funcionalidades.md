@@ -212,3 +212,5 @@ Neste ponto a dificuldade foi grande, pois realizadas as exportações e importa
 video recuperação de senha.
 
 ![Amostra Vídeo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t1-ponto-all/blob/8142dfbb896e5f10b2b9ef6936be7fe6d9e5764a/presentation/WhatsApp%20Video%202023-06-20%20at%2014.23.30.mp4)
+
+![Amostra Vídeo](presentation/WhatsApp Video 2023-06-20 at 14.23.30.mp4)
